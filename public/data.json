@@ -1,0 +1,66 @@
+[
+    {
+        "categoria": "proyecto",
+        "title": "Coacheo",
+        "factor": 1.0
+    },
+    {
+        "categoria": "proyecto",
+        "title": "Asesoramiento legal",
+        "factor": 1.2
+    },
+    {
+        "categoria": "proyecto",
+        "title": "Viajes comerciales",
+        "factor": 1.3  
+    },
+    {
+        "categoria": "proyecto",
+        "title": "Resolucion de Conflictos",
+        "factor": 1.4
+    },
+    {
+        "categoria": "cliente",
+        "title": "Pyme",
+        "factor": 1.5
+    },
+    {
+        "categoria": "cliente",
+        "title": "Mediana empresa",
+        "factor": 1.6
+    },
+    {
+        "categoria": "cliente",
+        "title": "Corporacion",
+        "factor": 1.7
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
